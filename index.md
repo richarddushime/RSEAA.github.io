@@ -95,7 +95,7 @@ If your organisation would like to partner with us, there are [Key and Allied pa
 [The Code of Conduct](https://rse-aunz.github.io/code-of-conduct) is designed to provide all participants with community participation guidelines.
 
 ## Contact Us
-If you would like to know more or have any questions, please contact the organising committee at rse2024 at rse-aunz.org by email.
+If you would like to know more or have any questions, please contact the organising committee at rse2024@rse-aunz.org by email.
 
 ## Marketing materials
 
