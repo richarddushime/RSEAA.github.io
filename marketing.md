@@ -106,3 +106,9 @@ Don't forget that on the website you can add the placeholder event to your Googl
 
 Get them at https://rseaa.github.io/ #RSEAA24 #RSE #RSEng
 
+---
+
+Exciting news! We're delighted to have [**partner name**] on board as a key partner for the RSE Asia Australia 2024 unconference. Their invaluable support will help ensure the success of this event. A big thank you to [**Partner Name**] for their sponsorship and dedication to advancing research software engineering. We invite others to join us this year by emailing us at rse2024@rse-aunz.org. For more information, visit our [official website](https://rseaa.github.io/). **#RSEAA24 #ARDC**
+
+---
+
